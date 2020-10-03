@@ -43,3 +43,25 @@ Website Sportsville ini akan membantu pengguna dalam mencari lapangan bidang ola
   
 <br>
 P.S. Coding bisa dilihat pada file 'Project Sportsville Code'
+<br>
+
+### Project FF
+Website FF ini membantu para user agar bisa lebih jelas kenal dengan game yang bernamakan "Final Fantasy" dengan bertemekan MMORPG(Massive Multiplayer Online Role-Playing Game. Final Fantasy XIV ini merupakan seri ke - 14 dari seri Final Fantasy.
+
+##### Tujuan dari Website FF adalah :
+1. Memahami apa itu FF
+2. Memahami karakter yang terdapat pada game "Final Fantasy"
+
+##### Berikut adalah beberapa screenshot dari project ini.
+![](Project%20FF/HomePage.jpg)
+<p align ="center">
+<b>2.1 Home Page<b>
+</p>
+
+![](Project%20FF/SubscribeForm.jpg)
+<p align ="center">
+<b>2.2 Form Page<b>
+</p>
+  
+<br>
+P.S. Coding bisa dilihat pada file 'Project FF Code'
